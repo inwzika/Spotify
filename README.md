@@ -192,6 +192,3 @@ Authentication schemes defined for the API:
 
 It's recommended to create an instance of `ApiClient` per thread in a multithreaded environment to avoid any potential issues.
 
-## Author
-
-nima.heydari79@yahoo.com
